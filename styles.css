@@ -1,0 +1,45 @@
+/* add your CSS here */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-color: #000000;
+}
+.card {
+    width: 320px;
+    box-shadow: 0px 5px 15px 0px rgba(153, 153, 153, 0.5);
+    border: solid #cccccc 1px;
+    border-radius: 5px;
+}
+img {
+    display: block;
+    margin: auto;
+    border: solid #cccccc 1px;
+    border-radius: 5px;
+    width: 300px;
+}
+.bottom {
+    width: 300px;
+    border: solid #cccccc 1px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.trivia {
+    font-style: italic;
+}
+span {
+    font-weight: bold;
+    font-style: normal;
+}
+h3 {
+    padding: 0 10px;
+}
+p {
+    padding: 0 10px;
+}
+ul {
+    list-style: none;
+    padding: 0 10px;
+}
+li {
+    font-style: italic;
+}
